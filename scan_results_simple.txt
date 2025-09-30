@@ -1,0 +1,99 @@
+Target: google.com
+IP: 74.125.68.101
+
+Open Ports:
+No | Port | Service | Status
+---|------|---------|-------
+1  | 80   | http    | Open
+2  | 443   | https    | Open
+
+
+==============================
+
+Target: 142.250.190.78
+IP: 142.250.190.78
+
+Open Ports:
+No | Port | Service | Status
+---|------|---------|-------
+1  | 80   | http    | Open
+2  | 443   | https    | Open
+
+
+==============================
+
+
+Target: github.com
+IP: 20.207.73.82
+
+Open Ports:
+No | Port | Service | Status
+---|------|---------|-------
+1  | 22   | ssh    | Open
+2  | 80   | http    | Open
+3  | 443   | https    | Open
+
+==============================
+
+Target: google.com
+IP: 142.250.70.46
+Domain Name: pnbomb-aa-in-f14.1e100.net
+
+Open Ports:
+No | Port | Service | Status
+---|------|---------|-------
+1  | 80   | http    | Open
+2  | 443   | https    | Open
+
+==============================
+
+Target: 142.250.190.78
+IP: 142.250.190.78
+Domain Name: ord37s34-in-f14.1e100.net
+
+Open Ports:
+No | Port | Service | Status
+---|------|---------|-------
+1  | 80   | http    | Open
+2  | 443   | https    | Open
+
+==============================
+
+Target: 127.0.0.1
+IP: 127.0.0.1
+Domain Name: DESKTOP-9VAMU46
+
+Open Ports:
+No | Port | Service | Status
+---|------|---------|-------
+1  | 135   | epmap    | Open
+2  | 445   | microsoft-ds    | Open
+
+==============================
+
+Target: google.com
+IP: 142.250.202.238
+Domain Name: lcmcta-ad-in-f14.1e100.net
+
+Open Ports:
+No | Port | Service | Status
+---|------|---------|-------
+1  | 80   | http    | Open
+2  | 443   | https    | Open
+
+
+==============================
+
+Target: lcmcta-ad-in-f14.1e100.net
+IP: 142.250.202.238
+Domain Name: lcmcta-ad-in-f14.1e100.net
+
+Open Ports:
+No | Port | Service | Status
+---|------|---------|-------
+1  | 80   | http    | Open
+2  | 443   | https    | Open
+
+
+==============================
+
